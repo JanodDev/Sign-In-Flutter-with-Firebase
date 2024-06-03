@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "85858645667",
+    "project_id": "firstfirebase-eedca",
+    "storage_bucket": "firstfirebase-eedca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85858645667:android:0765adfa177912fd1bb116",
+        "android_client_info": {
+          "package_name": "com.example.firbase_tutorial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhg5YWhvI9MWFIgAvDNxGyL_GqZ85l7NY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
